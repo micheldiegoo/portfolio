@@ -38,7 +38,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/IMG_3349.jpg
+          url: /images/1669746580764.jpeg
           altText: Second item image
         actions:
           - type: Button
