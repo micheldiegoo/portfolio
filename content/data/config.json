@@ -20,7 +20,8 @@
                 "type": "Link",
                 "label": "Professional Experience",
                 "url": "/experience",
-                "underline": "hover"
+                "underline": "hover",
+                "color": "primary"
             },
             {
                 "type": "Link",
