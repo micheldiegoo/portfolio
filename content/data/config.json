@@ -33,7 +33,7 @@
                 "type": "Link",
                 "label": "Hobbies",
                 "url": "/hobbies",
-                "underline": "always",
+                "underline": "hover",
                 "color": "primary"
             }
         ]
