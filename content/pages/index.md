@@ -41,7 +41,7 @@ sections:
         actions:
           - type: Button
             label: SEE MORE
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: /projects/python
             variant: contained
             size: small
       - type: Card
