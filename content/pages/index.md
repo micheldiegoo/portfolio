@@ -6,9 +6,8 @@ sections:
     title: Welcome to my portfolio website!
     subtitle: Data passionate. Lifelong Learn.
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      I am Michel Diego, experienced financial professional who dedicated its
+      last 4 years to became a Data Analyst.
     actions:
       - type: Button
         label: Start Building
