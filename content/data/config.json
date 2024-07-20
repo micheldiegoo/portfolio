@@ -21,6 +21,13 @@
                 "label": "Professional Experience",
                 "url": "https://docs.netlify.com/visual-editor/overview/",
                 "underline": "hover"
+            },
+            {
+                "type": "Link",
+                "label": "Qualification",
+                "url": "/qualification",
+                "underline": "always",
+                "color": "primary"
             }
         ]
     },
