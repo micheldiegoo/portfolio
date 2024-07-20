@@ -21,7 +21,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/1686548640655.jpeg
+          url: /images/python-logo.png
           altText: First item image
         actions:
           - type: Button
