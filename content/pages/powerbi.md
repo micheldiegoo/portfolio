@@ -5,10 +5,10 @@ sections:
   - type: HeroSection
     title: An Empty Page
     subtitle: The section subtitle
-    text: >+
-      \<iframe title="Report Vacancies" width="1140" height="541.25"
-      src="https\://app.powerbi.com/reportEmbed?reportId=74b4bcdf-231d-4c8d-9d0f-d2dc507a7fbf\&autoAuth=true\&embeddedDemo=true"
-      frameborder="0" allowFullScreen="true">\</iframe>
+    text: |+
+      ```
+      <iframe title="Report Vacancies" width="1140" height="541.25" src="
+      ```
 
     actions:
       - type: Button
