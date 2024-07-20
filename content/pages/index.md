@@ -20,7 +20,7 @@ sections:
         url: 'https://www.linkedin.com/in/michel-diego-38b918100/'
         size: medium
         variant: contained
-        color: secondary
+        color: primary
       - type: Button
         label: Read the Docs
         url: 'https://docs.netlify.com/visual-editor/overview/'
