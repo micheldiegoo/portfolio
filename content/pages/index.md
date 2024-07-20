@@ -19,7 +19,7 @@ sections:
         label: Linkedin
         url: 'https://www.linkedin.com/in/michel-diego-38b918100/'
         size: medium
-        variant: text
+        variant: outlined
         color: primary
       - type: Button
         label: Read the Docs
