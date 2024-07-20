@@ -74,7 +74,7 @@ sections:
           aliquip ex ea commodo consequat.
         actions:
           - type: Button
-            label: Read the Docs
+            label: SEE MORE
             url: 'https://docs.netlify.com/visual-editor/overview/'
             size: small
             variant: contained
