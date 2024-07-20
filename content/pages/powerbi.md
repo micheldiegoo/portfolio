@@ -4,10 +4,7 @@ title: Power BI
 sections:
   - type: HeroSection
     title: An Empty Page
-    subtitle: >-
-      <iframe title="Report Vacancies" width="600" height="373.5"
-      src="https://app.powerbi.com/view?r=eyJrIjoiMGI3YzRkNjAtZmU1OS00NDBlLWExMmYtOTYwNjBkYWUyMWY1IiwidCI6ImE4OTFkZGE4LTc1YWYtNDgyMy1iYjk3LTU3YTkwMGYwYTZiNCJ9"
-      frameborder="0" allowFullScreen="true"></iframe>
+    subtitle: ''
     text: >+
       \<iframe title="Report Vacancies" width="600" height="373.5"
       src="https\://app.powerbi.com/view?r=eyJrIjoiMGI3YzRkNjAtZmU1OS00NDBlLWExMmYtOTYwNjBkYWUyMWY1IiwidCI6ImE4OTFkZGE4LTc1YWYtNDgyMy1iYjk3LTU3YTkwMGYwYTZiNCJ9"
