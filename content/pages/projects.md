@@ -8,13 +8,7 @@ sections:
     text: >-
       Add more sections by hovering above or below this one and clicking '+ Add
       Section', or using the sidebar.
-    actions:
-      - type: Button
-        label: Get Started
-        url: /
-        size: large
-        variant: contained
-        color: primary
+    actions: []
   - type: CardsSection
     title: Cards Section Title
     subtitle: The section subtitle
