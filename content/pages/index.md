@@ -46,7 +46,7 @@ sections:
         title: SQL
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/1669746580764.jpeg
           altText: Second item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
