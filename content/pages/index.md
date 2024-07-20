@@ -24,7 +24,7 @@ sections:
       url: /images/207-2-2.png
       altText: Hero section image
   - type: CardsSection
-    title: Portfolio
+    title: Skills
     subtitle: Section subtitle here
     items:
       - type: Card
