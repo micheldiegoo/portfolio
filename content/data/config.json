@@ -12,7 +12,7 @@
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "About Me",
                 "url": "/about",
                 "underline": "hover"
             },
