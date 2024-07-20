@@ -34,7 +34,7 @@
                 "label": "Hobbies",
                 "url": "/hobbies",
                 "underline": "always",
-                "color": "primary"
+                "color": "secondary"
             }
         ]
     },
