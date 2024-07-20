@@ -5,23 +5,23 @@ sections:
   - type: HeroSection
     title: Projects
     subtitle: The section subtitle
-    text: >-
-      Add more sections by hovering above or below this one and clicking '+ Add
-      Section', or using the sidebar.
+    text: |+
+
+
     actions: []
   - type: CardsSection
     title: ''
     subtitle: ''
     items:
       - type: Card
-        title: First Item Title
+        title: Python
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/Python-Emblem.png
           altText: First item image
         actions:
           - type: Button
@@ -31,14 +31,14 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Second Item Title
+        title: SQL
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/1669746580764.jpeg
           altText: Second item image
         actions:
           - type: Button
@@ -48,15 +48,14 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Item Title
+        title: Power BI
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
           type: Image
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/Integrateur-Power-BI.png
           altText: Item image
         actions:
           - type: Button
@@ -66,14 +65,14 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Third Item Title
+        title: R
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/R-PROGRAMMING-LANGUAGE-i2tutorials.jpg
           altText: Third item image
         actions:
           - type: Button
