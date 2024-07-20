@@ -19,7 +19,7 @@
             {
                 "type": "Link",
                 "label": "Professional Experience",
-                "url": "https://docs.netlify.com/visual-editor/overview/",
+                "url": "/experience",
                 "underline": "hover"
             },
             {
