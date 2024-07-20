@@ -55,8 +55,7 @@ sections:
           explicabo.
         image:
           type: Image
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/Integrateur-Power-BI.png
           altText: Item image
         actions:
           - type: Button
