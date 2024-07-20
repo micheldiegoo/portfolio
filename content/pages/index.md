@@ -30,7 +30,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/207-2-2.png
       altText: Hero section image
   - type: CardsSection
     title: Portfolio
