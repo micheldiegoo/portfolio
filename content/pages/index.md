@@ -43,7 +43,7 @@ sections:
             label: SEE MORE
             url: 'https://docs.netlify.com/visual-editor/overview/'
             variant: contained
-            size: medium
+            size: small
       - type: Card
         title: SQL
         image:
