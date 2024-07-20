@@ -10,7 +10,7 @@ sections:
       last 4 years to became a Data Analyst.
     actions:
       - type: Button
-        label: Start Build
+        label: Projects
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
