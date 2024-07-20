@@ -42,6 +42,7 @@ sections:
           - type: Button
             label: SEE MORE
             url: 'https://docs.netlify.com/visual-editor/overview/'
+            variant: contained
       - type: Card
         title: SQL
         image:
