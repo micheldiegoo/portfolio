@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/sunder-muthukumaran-n7eJHQwefeI-unsplash.jpg",
     "header": {
         "title": "Michel Costa",
         "navLinks": [
@@ -12,15 +12,30 @@
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "About Me",
                 "url": "/about",
                 "underline": "hover"
             },
             {
                 "type": "Link",
-                "label": "Documentation",
-                "url": "https://docs.netlify.com/visual-editor/overview/",
-                "underline": "hover"
+                "label": "Professional Experience",
+                "url": "/experience",
+                "underline": "hover",
+                "color": "primary"
+            },
+            {
+                "type": "Link",
+                "label": "Qualification",
+                "url": "/qualification",
+                "underline": "hover",
+                "color": "primary"
+            },
+            {
+                "type": "Link",
+                "label": "Hobbies",
+                "url": "/hobbies",
+                "underline": "hover",
+                "color": "primary"
             }
         ]
     },
