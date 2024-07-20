@@ -6,22 +6,7 @@ sections:
     title: Projects
     subtitle: The section subtitle
     text: |+
-      \<!DOCTYPE html>
 
-      \<html lang="pt-BR">
-      \<head>
-          \<meta charset="UTF-8">
-          \<meta name="viewport" content="width=device-width, initial-scale=1.0">
-          \<title>Botão Interativo\</title>
-          \<link rel="stylesheet" href="styles.css">
-      \</head>
-      \<body>
-          \<button id="interactiveButton">Clique Aqui\</button>
-
-          <script src="script.js"></script>
-
-      \</body>
-      \</html>
 
     actions: []
   - type: CardsSection
