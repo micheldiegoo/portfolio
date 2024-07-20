@@ -18,7 +18,7 @@ sections:
       - type: Button
         label: Linkedin
         url: 'https://www.linkedin.com/in/michel-diego-38b918100/'
-        size: medium
+        size: large
         variant: contained
         color: primary
       - type: Button
