@@ -10,7 +10,7 @@ sections:
       Section', or using the sidebar.
     actions: []
   - type: CardsSection
-    title: Cards Section Title
+    title: ''
     subtitle: The section subtitle
     items:
       - type: Card
