@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Welcome to my portfolio website!
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: Data passionate. Lifelong Learn.
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
