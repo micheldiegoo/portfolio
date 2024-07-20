@@ -11,7 +11,7 @@ sections:
     actions: []
   - type: CardsSection
     title: ''
-    subtitle: The section subtitle
+    subtitle: ''
     items:
       - type: Card
         title: First Item Title
