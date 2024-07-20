@@ -58,7 +58,7 @@ sections:
         actions:
           - type: Button
             label: SEE MORE
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: /projects/sql
             size: small
             variant: contained
       - type: Card
