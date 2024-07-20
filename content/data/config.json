@@ -28,6 +28,13 @@
                 "url": "/qualification",
                 "underline": "hover",
                 "color": "primary"
+            },
+            {
+                "type": "Link",
+                "label": "Hobbies",
+                "url": "/hobbies",
+                "underline": "always",
+                "color": "primary"
             }
         ]
     },
