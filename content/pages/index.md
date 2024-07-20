@@ -11,7 +11,7 @@ sections:
     actions:
       - type: Button
         label: Projects
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        url: 'https://www.micheldiego.com/projects'
         size: large
         variant: contained
         color: primary
