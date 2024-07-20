@@ -38,7 +38,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/sunder-muthukumaran-n7eJHQwefeI-unsplash.jpg
+          url: /images/IMG_3349.jpg
           altText: Second item image
         actions:
           - type: Button
